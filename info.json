@@ -1,0 +1,18 @@
+{
+	"module": {
+		"name": "World Cup 2018",
+		"version": "1.0.0",
+		"description": "Modul für die FIFA World Cup 2018 Matches",
+		"module_url": "https://glancr.de/module/unterhaltung/worldcup18/",
+		"download_url": "http://api.glancr.de/update/moduleZips/worldcup18-1.0.0.zip",
+		"category": "home-automation",
+		"release_date": "2018-06-16",
+		"last_update": "2018-06-16"
+	},
+	"creator": {
+		"name": "Marco Roth",
+		"contact": "mr@glancr.de",
+		"website": "https://www.marco-roth.ch",
+		"profile": "https://www.glancr.de/entwickler/marco-roth"
+	}
+}

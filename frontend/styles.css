@@ -1,0 +1,15 @@
+#worldcup18_date {
+	font-size: 10pt;
+	margin-left: 10px;
+	line-height: 10px;
+}
+
+#worldcup18_table td:first-of-type {
+	padding-left: 0px;
+}
+
+#worldcup18_table td {
+	padding-left: 10px;
+	align: left;
+	white-space: nowrap;
+}

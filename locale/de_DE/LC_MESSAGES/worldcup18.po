@@ -1,0 +1,45 @@
+# mirr.OS WorldCup18 Module v1.0.0
+# Copyright (C) 2018
+# Marco Roth <mr@glancr.de>, 2018
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mirr.OS WorldCup18 Module V1.0.0\n"
+"POT-Creation-Date: 2016-05-07 11:02+0200\n"
+"PO-Revision-Date: 2017-02-25 22:12+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: Marco Roth <mr@glancr.de>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+
+msgid "worldcup18_title"
+msgstr "World Cup 18"
+
+msgid "worldcup18_description"
+msgstr "Zeigt die Spiele des aktuellen Spieltags an."
+
+msgid "worldcup18_how_to_use"
+msgstr "Um das Modul verwenden zu können, benötigst du einen API Key von football-data.org"
+
+msgid "worldcup18_apikey"
+msgstr "football-data.org API Key"
+
+msgid "worldcup18_reset_config"
+msgstr "Einstellungen zurücksetzen"
+
+msgid "worldcup18_configure_in_settings"
+msgstr "Um das Modul nutzen zu können, musst du es in den Einstellungen konfigurieren."
+
+msgid "worldcup18_reset_config_message"
+msgstr "Bist du sicher, dass du deine Einstellugnen zurücksetzten möchtest?"
+
+msgid "worldcup18_check_config"
+msgstr "Fehler: Es scheint, dass einige Einstellungen nicht korrekt sind. Bitte überprüfe deine Einstellungen."
+
+msgid "save"
+msgstr "Speichern"

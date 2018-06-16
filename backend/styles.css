@@ -1,0 +1,13 @@
+#gr-modal-worldcup18 ul.sortable {
+	list-style-type: none !important;
+	margin-left: 0px !important;
+}
+
+#gr-modal-worldcup18 li.ui-sortable-handle {
+	margin-bottom: 0.5rem !important;
+}
+
+#gr-modal-worldcup18 span.ui-icon {
+	float: left !important;
+	margin-top: 0.2rem !important;
+}
