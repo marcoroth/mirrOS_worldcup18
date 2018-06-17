@@ -1,11 +1,11 @@
 <?php
-	$worldcup18_apikey = getConfigValue('$worldcup18_apikey');
-	if (empty($email)) { $worldcup18_apikey = ""; }
+	$worldcup18_apikey = getConfigValue('worldcup18_apikey');
+	if (empty($worldcup18_apikey)) { $worldcup18_apikey = ""; }
 ?>
 
 <p>
-	<?php echo _("worldcup18_getapikey"); ?><br /><br />
-	<a href="https://www.football-data.org/client/register" target="_blank"><?php echo _("worldcup18_getapikey"); ?></a>
+	<?php echo _("worldcup18_how_to_use"); ?>:<br />
+	<a href="https://www.football-data.org/client/register" target="_blank">football-data.org</a>
 </p>
 
 <h5><?php echo _('worldcup18_apikey');?></h5>
