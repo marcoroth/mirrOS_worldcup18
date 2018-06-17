@@ -1,0 +1,150 @@
+# mirr.OS WorldCup18 Module v1.0.0
+# Copyright (C) 2018
+# Marco Roth <mr@glancr.de>, 2018
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mirr.OS WorldCup18 Module V1.0.0\n"
+"POT-Creation-Date: 2016-05-07 11:02+0200\n"
+"PO-Revision-Date: 2018-06-17 15:10+0200\n"
+"Last-Translator: Marco Roth <mr@glancr.de>\n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "worldcup18_title"
+msgstr "World Cup 18"
+
+msgid "worldcup18_description"
+msgstr "現在のマッチデーのすべての試合を表示します"
+
+msgid "worldcup18_how_to_use"
+msgstr ""
+"モジュールを使用するには、アプリに アカウントが必要です。"
+
+msgid "worldcup18_apikey"
+msgstr "Football Data API Key"
+
+msgid "worldcup18_reset_config"
+msgstr "リセット設定"
+
+msgid "worldcup18_configure_in_settings"
+msgstr ""
+"モジュールを使用するには、設定で モジュールを設定する必要"
+"があります。"
+
+msgid "worldcup18_reset_config_message"
+msgstr "の設定をリセットしてもよろしいですか？"
+
+msgid "worldcup18_no_games_today"
+msgstr "今日のゲームはありません"
+
+msgid "save"
+msgstr "保存"
+
+#~ msgid "worldcup18_tutorial_create_app"
+#~ msgstr ""
+#~ "チュートリアル：Netatmo-Appの作成方法（ドイツ語のみ）"
+
+#~ msgid "worldcup18_already_have_app"
+#~ msgstr ""
+#~ "すでにアプリを持っていますか？あなたのデータをここに入"
+#~ "力してください："
+
+#~ msgid "worldcup18_email"
+#~ msgstr "メールアドレス"
+
+#~ msgid "worldcup18_use_email"
+#~ msgstr "mirr.OSのメールアドレスを使用する"
+
+#~ msgid "worldcup18_client_id"
+#~ msgstr "Netatmo ID"
+
+#~ msgid "worldcup18_client_secret"
+#~ msgstr "Netatmo クライアントシークレット"
+
+#~ msgid "worldcup18_public_stations"
+#~ msgstr "公共のNetatmoステーション"
+
+#~ msgid "worldcup18_no_public_stations"
+#~ msgstr ""
+#~ "Netatmo WeatherMapでお気に入りのステーションがありませ"
+#~ "ん"
+
+#~ msgid "worldcup18_own_stations"
+#~ msgstr "個人のステーション"
+
+#~ msgid "worldcup18_no_own_stations"
+#~ msgstr "個人のステーションがありません"
+
+#~ msgid "worldcup18_modules"
+#~ msgstr "モジュールの順序を設定する"
+
+#~ msgid "worldcup18_select_NAMain_icons"
+#~ msgstr "ベースステーションのアイコンを選択"
+
+#~ msgid "worldcup18_select_NAModule2_icons"
+#~ msgstr "風量計のアイコンを選択"
+
+#~ msgid "worldcup18_select_NAModule3_icons"
+#~ msgstr "雨量計のアイコンを選択"
+
+#~ msgid "worldcup18_select_NAModule1_icons"
+#~ msgstr "屋外モジュールのアイコンを選択"
+
+#~ msgid "worldcup18_select_NAModule4_icons"
+#~ msgstr "屋内モジュールのアイコンを選択"
+
+#~ msgid "worldcup18_ago"
+#~ msgstr "前"
+
+#~ msgid "worldcup18_minute"
+#~ msgstr "分"
+
+#~ msgid "worldcup18_minutes"
+#~ msgstr "分"
+
+#~ msgid "worldcup18_compass_points"
+#~ msgstr ""
+#~ "'北', '北北東', '北東', '東北東', '東', '東南東', '南"
+#~ "東', '南南東', '南', '北北西', '南西', '西南西', '西', "
+#~ "'西北西', '北西', '北北西'"
+
+#~ msgid "worldcup18_tutorial_add_favorites"
+#~ msgstr "Netatmoチュートリアルをお気に入りに加える"
+
+#~ msgid "worldcup18_weather_map_info"
+#~ msgstr "Netatmo 天気図情報"
+
+#~ msgid "worldcup18_station_not_found"
+#~ msgstr ""
+#~ "エラー：指定されたMACアドレスを持つステーションが見つか"
+#~ "りませんでした。ステーションがお気に入りになっているこ"
+#~ "とを確認するか、設定セクションで別のステーションを選択"
+#~ "してください。 <br> <br>しかし、以下のステーションが見"
+#~ "つかりました：<br>"
+
+#~ msgid "worldcup18_NAMain"
+#~ msgstr "基地局"
+
+#~ msgid "worldcup18_NAModule1"
+#~ msgstr "屋外モジュール"
+
+#~ msgid "worldcup18_NAModule2"
+#~ msgstr "風力計"
+
+#~ msgid "worldcup18_NAModule3"
+#~ msgstr "雨量計"
+
+#~ msgid "worldcup18_NAModule4"
+#~ msgstr "屋内モジュール"
+
+#~ msgid "worldcup18_check_config"
+#~ msgstr ""
+#~ "エラー：いくつかの設定が間違っています。バックエンドで"
+#~ "設定を再確認してください。"
