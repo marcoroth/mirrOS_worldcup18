@@ -1,0 +1,132 @@
+# mirr.OS WorldCup18 Module v1.0.0
+# Copyright (C) 2018
+# Marco Roth <mr@glancr.de>, 2018
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mirr.OS WorldCup18 Module V1.0.0\n"
+"POT-Creation-Date: 2016-05-07 11:02+0200\n"
+"PO-Revision-Date: 2018-06-17 15:05+0200\n"
+"Last-Translator: Marco Roth <mr@glancr.de>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "worldcup18_title"
+msgstr "World Cup 18"
+
+msgid "worldcup18_description"
+msgstr "Shows all games for the current matchday"
+
+msgid "worldcup18_how_to_use"
+msgstr "To use the module, you need an API Key from football-data.org"
+
+msgid "worldcup18_apikey"
+msgstr "Football Data API Key"
+
+msgid "worldcup18_reset_config"
+msgstr "Reset Config"
+
+msgid "worldcup18_configure_in_settings"
+msgstr "To use the module, you must configure it in the settings."
+
+msgid "worldcup18_reset_config_message"
+msgstr "Are you sure you want to reset your config?"
+
+msgid "worldcup18_no_games_today"
+msgstr "No Games Today"
+
+msgid "save"
+msgstr "save"
+
+#~ msgid "worldcup18_tutorial_create_app"
+#~ msgstr "Tutorial: How to create a Netatmo-App (German only)"
+
+#~ msgid "worldcup18_already_have_app"
+#~ msgstr "Do you already have an app? Please insert your data here:"
+
+#~ msgid "worldcup18_email"
+#~ msgstr "eMail"
+
+#~ msgid "worldcup18_use_email"
+#~ msgstr "Use eMail-adress from mirr.OS"
+
+#~ msgid "worldcup18_client_id"
+#~ msgstr "Netatmo Client ID"
+
+#~ msgid "worldcup18_client_secret"
+#~ msgstr "Netatmo Client Secret"
+
+#~ msgid "worldcup18_public_stations"
+#~ msgstr "Public Netatmo Stations"
+
+#~ msgid "worldcup18_no_public_stations"
+#~ msgstr "you don’t have marked a station as your favorite on the Netatmo WeatherMap"
+
+#~ msgid "worldcup18_own_stations"
+#~ msgstr "own stations"
+
+#~ msgid "worldcup18_no_own_stations"
+#~ msgstr "you have no own stations"
+
+#~ msgid "worldcup18_modules"
+#~ msgstr "Configure module order"
+
+#~ msgid "worldcup18_select_NAMain_icons"
+#~ msgstr "Select icon for base station"
+
+#~ msgid "worldcup18_select_NAModule2_icons"
+#~ msgstr "Select icon for wind gauge"
+
+#~ msgid "worldcup18_select_NAModule3_icons"
+#~ msgstr "Select icon for rain gauge"
+
+#~ msgid "worldcup18_select_NAModule1_icons"
+#~ msgstr "Select icon for outdoor module"
+
+#~ msgid "worldcup18_select_NAModule4_icons"
+#~ msgstr "Select icon for indoor module"
+
+#~ msgid "worldcup18_ago"
+#~ msgstr "ago"
+
+#~ msgid "worldcup18_minute"
+#~ msgstr "minute"
+
+#~ msgid "worldcup18_minutes"
+#~ msgstr "minutes"
+
+#~ msgid "worldcup18_compass_points"
+#~ msgstr "'N', 'NNE', 'NE', 'ENE', 'E', 'ESE', 'SE', 'SSE', 'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW'"
+
+#~ msgid "worldcup18_tutorial_add_favorites"
+#~ msgstr "worldcup18_tutorial_add_favorites"
+
+#~ msgid "worldcup18_weather_map_info"
+#~ msgstr "worldcup18_weather_map_info"
+
+#~ msgid "worldcup18_station_not_found"
+#~ msgstr "Error: The station with the specified MAC address was not found. Make sure your station is in the favorites or select another station in the settings section. <br> <br> However, the following stations were found:<br>"
+
+#~ msgid "worldcup18_NAMain"
+#~ msgstr "Base-Station"
+
+#~ msgid "worldcup18_NAModule1"
+#~ msgstr "Outdoor-Module"
+
+#~ msgid "worldcup18_NAModule2"
+#~ msgstr "Wind-Gauge"
+
+#~ msgid "worldcup18_NAModule3"
+#~ msgstr "Rain-Gauge"
+
+#~ msgid "worldcup18_NAModule4"
+#~ msgstr "Indoor-Module"
+
+#~ msgid "worldcup18_check_config"
+#~ msgstr "Error: It look likes some settings are incorrect. Please double check your configurations in the backend."
