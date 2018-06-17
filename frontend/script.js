@@ -70,10 +70,13 @@ function worldcup18(){
 				if ($("#worldcup18_table tr").size() == 0) {
 					$("#worldcup18_table").append("<tr></tr>");
 					$("#worldcup18_table tr:last").append("<td><i class='fa fa-2x fa-futbol-o'></i><td>");
-					$("#worldcup18_table tr:last").append("<td><?php echo _('worldcup18worldcup18_no_games_today'); ?><td>");
+					$("#worldcup18_table tr:last").append("<td><?php echo _('worldcup18_no_games_today'); ?><td>");
 				}
 
-		  });
+		  }).fail(function(xhr, status, error){
+				$("#worldcup18_table").append("<tr></tr>");
+				$("#worldcup18_table tr:last").append("<td>Error: Too Many Request, try again in a few minutes<td>");
+			});
 		} else {
 			$("#worldcup18_table").append("<tr></tr>");
 			$("#worldcup18_table").append("<td><?php echo _('worldcup18_configure_in_settings'); ?><td>");
