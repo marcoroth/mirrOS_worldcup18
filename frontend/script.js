@@ -18,11 +18,12 @@ $(document).ready(function() {
 
 function worldcup18(){
 
+	$("#worldcup18_table").empty();
+
 	if (worldcup18_apikey != "") {
 		$.getJSON(worldcup18_url).done(function(data){
 				today = new Date();
 				today_string = today.getDate().pad(2) + "." + (today.getMonth()+1).pad(2) + "." + today.getFullYear();
-				$("#worldcup18_table").empty();
 
 		    $(data.fixtures).each(function(index, fixture) {
 		      date = new Date(fixture.date);
