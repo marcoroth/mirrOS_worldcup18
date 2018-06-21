@@ -11,7 +11,7 @@ Das World Cup 2018-Modul zeigt die Spiele des aktuellen Spieltags an.
 
 ## Download
 
-Du kannst dir [hier](https://glancr.de/module/unterhaltung/worldcup18/) die neuste Version des Moduls herunterladen. <br>
+Du kannst dir [hier](https://glancr.de/module/unterhaltung/fussball/) die neuste Version des Moduls herunterladen. <br>
 Die Modul-Updates werden direkt via mirrOS-Backend installiert.
 
 
@@ -21,7 +21,7 @@ Die Modul-Updates werden direkt via mirrOS-Backend installiert.
 
 ## Weitere Informationen
 * [football-data.org](https://www.football-data.org)
-* [World Cup 18-Modul](https://glancr.de/module/unterhaltung/worldcup18/)
+* [World Cup 18-Modul](https://glancr.de/module/unterhaltung/fussball/)
 * [Glancr](https://glancr.de)
 * [mirrOS](https://glancr.de/#mirr_os)
 
