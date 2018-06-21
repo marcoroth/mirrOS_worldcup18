@@ -1,7 +1,7 @@
 {
 	"module": {
 		"name": "World Cup 2018",
-		"version": "1.0.2",
+		"version": "1.0.3",
 		"description": "Modul für die FIFA World Cup 2018 Matches",
 		"module_url": "https://glancr.de/module/unterhaltung/worldcup18/",
 		"download_url": "http://api.glancr.de/update/moduleZips/worldcup18-1.0.2.zip",
